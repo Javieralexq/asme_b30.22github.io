@@ -1,0 +1,210 @@
+[
+    {
+        "categoria":"Norma asme b30.22",
+        "pregunta":"¿Qué representa la siguiente imagen?",
+        "respuesta":"Bajar gancho",
+        "incorrecta1":"Bajar la pluma y bajar la carga",
+        "incorrecta2":"Subir la pluma y levantar la carga",
+        "incorrecta3":"Subir la pluma y bajar la carga",
+        "imagen":"https://i.ibb.co/10ZdCcj/Bajar-gancho.png",
+        "object-fit":"cover"
+    },
+    {
+        "categoria":"Norma asme b30.22",
+        "pregunta":"¿Qué representa la siguiente imagen?",
+        "respuesta":"Bajar la pluma y subir la carga",
+        "incorrecta1":"Subir gancho",
+        "incorrecta2":"Bajar la pluma y bajar la carga",
+        "incorrecta3":"Subir la pluma y levantar la carga",
+        "incorrecta4":"Subir la pluma y bajar la carga",
+        "imagen":"https://i.ibb.co/9rc2vPQ/Bajar-la-pluma-y-subir-la-carga.png",
+        "object-fit":"cover"
+    },
+    {
+        "categoria":"Norma asme b30.22",
+        "pregunta":"¿Qué representa la siguiente imagen?",
+        "respuesta":"Bajar pluma",
+        "incorrecta1":"Bajar gancho",
+        "incorrecta2":"Bajar la pluma y bajar la carga",
+        "incorrecta3":"Subir la pluma y levantar la carga",
+        "incorrecta4":"Subir la pluma y bajar la carga",
+        "imagen":"https://i.ibb.co/8cy8Mbn/Bajar-pluma.png",
+        "object-fit":"cover"
+    },
+    {
+        "categoria":"Norma asme b30.22",
+        "pregunta":"¿Qué representa la siguiente imagen?",
+        "respuesta":"Desplazamiento ambas orugas",
+        "incorrecta1":"Bajar la pluma y bajar la carga",
+        "incorrecta2":"Subir la pluma y bajar la carga",
+        "incorrecta3":"Subir gancho",
+        "incorrecta4":"Bajar gancho",
+        "imagen":"https://i.ibb.co/4FPLp9X/Desplazamiento-ambas-orugas.png",
+        "object-fit":"cover"
+    },
+    {
+        "categoria":"Norma asme b30.22",
+        "pregunta":"¿Qué representa la siguiente imagen?",
+        "respuesta":"Desplazamiento de una oruga",
+        "incorrecta1":"Subir la pluma y levantar la carga",
+        "incorrecta2":"Subir la pluma y bajar la carga",
+        "incorrecta3":"Subir gancho",
+        "incorrecta4":"Bajar gancho",
+        "imagen":"https://i.ibb.co/6D1Sk9c/Desplazamiento-una-oruga.png",
+        "object-fit":"cover"
+    },
+    {
+        "categoria":"Norma asme b30.22",
+        "pregunta":"¿Qué representa la siguiente imagen?",
+        "respuesta":"Detener y asegurar todo",
+        "incorrecta1":"Subir la pluma y levantar la carga",
+        "incorrecta2":"Subir la pluma y bajar la carga",
+        "incorrecta3":"Subir gancho",
+        "incorrecta4":"Bajar gancho",
+        "imagen":"https://i.ibb.co/52KBVzs/Detener-y-asegurar-todo.png",
+        "object-fit":"cover"
+    },
+    {
+        "categoria":"Norma asme b30.22",
+        "pregunta":"¿Qué representa la siguiente imagen?",
+        "respuesta":"Extender pluma (pluma telescopica)",
+        "incorrecta1":"Subir la pluma y levantar la carga",
+        "incorrecta2":"Subir la pluma y bajar la carga",
+        "incorrecta3":"Subir gancho",
+        "incorrecta4":"Bajar gancho",
+        "imagen":"https://i.ibb.co/hH9VXjj/Extender-pluma-pluma-telescopica.png",
+        "object-fit":"cover"
+    },
+    {
+        "categoria":"Norma asme b30.22",
+        "pregunta":"¿Qué representa la siguiente imagen?",
+        "respuesta":"Extender pluma (uso de cuerda guía)",
+        "incorrecta1":"Subir la pluma y levantar la carga",
+        "incorrecta2":"Subir la pluma y bajar la carga",
+        "incorrecta3":"Bajar la pluma y bajar la carga",
+        "incorrecta4":"Subir la pluma y bajar la carga",
+        "imagen":"https://i.ibb.co/SRm5G4S/Extender-pluma-pluma-soga.png",
+        "object-fit":"cover"
+    },
+    {
+        "categoria":"Norma asme b30.22",
+        "pregunta":"¿Qué representa la siguiente imagen?",
+        "respuesta":"Girar",
+        "incorrecta1":"Subir la pluma y levantar la carga",
+        "incorrecta2":"Subir gancho",
+        "incorrecta3":"Bajar gancho",
+        "incorrecta4":"Bajar la pluma y bajar la carga",
+        "imagen":"https://i.ibb.co/pjgtfH5/Girar.png",
+        "object-fit":"cover"
+    },
+    {
+        "categoria":"Norma asme b30.22",
+        "pregunta":"¿Qué representa la siguiente imagen?",
+        "respuesta":"Mover lentamente",
+        "incorrecta1":"Subir la pluma y levantar la carga",
+        "incorrecta2":"Subir gancho",
+        "incorrecta3":"Bajar gancho",
+        "incorrecta4":"Bajar la pluma y bajar la carga",
+        "imagen":"https://i.ibb.co/r3dSmcf/Mover-lentamente.png",
+        "object-fit":"cover"
+    },
+    {
+        "categoria":"Norma asme b30.22",
+        "pregunta":"¿Qué representa la siguiente imagen?",
+        "respuesta":"Parada de emergencia",
+        "incorrecta1":"Subir la pluma y levantar la carga",
+        "incorrecta2":"Bajar gancho",
+        "incorrecta3":"Bajar la pluma y bajar la carga",
+        "incorrecta4":"Subir la pluma y bajar la carga",
+        "imagen":"https://i.ibb.co/5KJR2Rm/Parada-de-emergencia.png",
+        "object-fit":"cover"
+    },
+    {
+        "categoria":"Norma asme b30.22",
+        "pregunta":"¿Qué representa la siguiente imagen?",
+        "respuesta":"Parar",
+        "incorrecta1":"Subir la pluma y levantar la carga",
+        "incorrecta2":"Bajar gancho",
+        "incorrecta3":"Bajar la pluma y bajar la carga",
+        "incorrecta4":"Subir la pluma y bajar la carga",
+        "imagen":"https://i.ibb.co/NLm1Fg0/Parar.png",
+        "object-fit":"cover"
+    },
+    {
+        "categoria":"Norma asme b30.22",
+        "pregunta":"¿Qué representa la siguiente imagen?",
+        "respuesta":"Retraer pluma (uso de la cuerda guía)",
+        "incorrecta1":"Subir la pluma y levantar la carga",
+        "incorrecta2":"Bajar gancho",
+        "incorrecta3":"Bajar la pluma y bajar la carga",
+        "incorrecta4":"Subir gancho",
+        "imagen":"https://i.ibb.co/74Qx5xM/Retraer-pluma-pluma-soga.png",
+        "object-fit":"cover"
+    },
+    {
+        "categoria":"Norma asme b30.22",
+        "pregunta":"¿Qué representa la siguiente imagen?",
+        "respuesta":"retraer pluma (pluma telescopica)",
+        "incorrecta1":"Subir la pluma y levantar la carga",
+        "incorrecta2":"Bajar gancho",
+        "incorrecta3":"Bajar la pluma y bajar la carga",
+        "incorrecta4":"Subir gancho",
+        "imagen":"https://i.ibb.co/3YBxrDf/Retraer-pluma-pluma-telescopica.png",
+        "object-fit":"cover"
+    },
+    {
+        "categoria":"Norma asme b30.22",
+        "pregunta":"¿Qué representa la siguiente imagen?",
+        "respuesta":"Subir gancho",
+        "incorrecta1":"Subir la pluma y levantar la carga",
+        "incorrecta2":"Bajar gancho",
+        "incorrecta3":"Bajar la pluma y bajar la carga",
+        "incorrecta4":"Subir la pluma y bajar la carga",
+        "imagen":"https://i.ibb.co/0Vgc5Cw/Subir-gancho.png",
+        "object-fit":"cover"
+    },
+    {
+        "categoria":"Norma asme b30.22",
+        "pregunta":"¿Qué representa la siguiente imagen?",
+        "respuesta":"Subir pluma",
+        "incorrecta1":"Subir la pluma y levantar la carga",
+        "incorrecta2":"Bajar gancho",
+        "incorrecta3":"Bajar la pluma y bajar la carga",
+        "incorrecta4":"Subir gancho",
+        "imagen":"https://i.ibb.co/kqWt6RP/Subir-pluma.png",
+        "object-fit":"cover"
+    },
+    {
+        "categoria":"Norma asme b30.22",
+        "pregunta":"¿Qué representa la siguiente imagen?",
+        "respuesta":"Uso de gancho auxiliar",
+        "incorrecta1":"Subir la pluma y levantar la carga",
+        "incorrecta2":"Bajar gancho",
+        "incorrecta3":"Bajar la pluma y bajar la carga",
+        "incorrecta4":"Subir gancho",
+        "imagen":"https://i.ibb.co/x8zFDJk/Usar-gancho-auxiliar.png",
+        "object-fit":"cover"
+    },
+    {
+        "categoria":"Norma asme b30.22",
+        "pregunta":"¿Qué representa la siguiente imagen?",
+        "respuesta":"Uso de gancho principal",
+        "incorrecta1":"Subir la pluma y levantar la carga",
+        "incorrecta2":"Bajar gancho",
+        "incorrecta3":"Bajar la pluma y bajar la carga",
+        "incorrecta4":"Subir gancho",
+        "imagen":"https://i.ibb.co/tHMYZNg/Usar-gancho-principal.png",
+        "object-fit":"cover"
+    },
+    {
+        "categoria":"Norma asme b30.22",
+        "pregunta":"¿Qué representa la siguiente imagen?",
+        "respuesta":"Viaje",
+        "incorrecta1":"Subir la pluma y levantar la carga",
+        "incorrecta2":"Bajar gancho",
+        "incorrecta3":"Bajar la pluma y bajar la carga",
+        "incorrecta4":"Subir gancho",
+        "imagen":"https://i.ibb.co/L9FDgvP/Viaje.png",
+        "object-fit":"cover"
+    }
+]
