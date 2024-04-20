@@ -12,7 +12,7 @@
     {
         "categoria":"Norma asme b30.22",
         "pregunta":"¿Qué representa la siguiente imagen?",
-        "respuesta":"Bajar la pluma y subir la carga",
+        "respuesta":"Subir pluma y bajar gancho",
         "incorrecta1":"Subir gancho",
         "incorrecta2":"Bajar la pluma y bajar la carga",
         "incorrecta3":"Subir la pluma y levantar la carga",
